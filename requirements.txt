@@ -1,1 +1,7 @@
-numpy scipy scikit-image matplotlib ipympl pydicom pillow
+numpy>=1.26,<3
+scipy>=1.11,<2
+scikit-image>=0.22,<1
+matplotlib>=3.8,<4
+ipympl>=0.9,<1
+pydicom>=2.4,<4
+pillow>=10,<12
