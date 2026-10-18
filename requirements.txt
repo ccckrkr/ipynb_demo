@@ -1,0 +1,1 @@
+numpy scipy scikit-image matplotlib ipympl pydicom pillow
