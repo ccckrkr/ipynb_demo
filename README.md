@@ -1,3 +1,4 @@
-mybinder.org
+https://ipynb-demo.pages.dev/
 
+mybinder.org
 https://mybinder.org/v2/gh/ccckrkr/ipynb_demo/HEAD
